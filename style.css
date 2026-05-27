@@ -84,12 +84,13 @@ body {
     font-size: 38px;
     color: #F5F5F5;
     border: none;
-    transition: all .2s;
+    transition: all .3s ease-in;
     cursor: pointer;
 }
 
 .btn:hover {
-    transform: scale(1.05);
+    transform: scale(1.07);
+    background-color: #2106a5;
 }
 
 .right-btn {
