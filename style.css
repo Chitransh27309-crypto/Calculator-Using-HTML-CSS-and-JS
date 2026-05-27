@@ -106,16 +106,19 @@ body {
 
 @media(max-width:480px) {
     .box {
-        height: 90vh;
-        width: 50vh;
+        height: 80vh;
+        width: 45vh;
     }
 
     .buttons {
-        gap: 1.5vh;
+        gap: 1vh;
     }
 
     .btn {
-        height: 10vh;
-        width: 10vh;
+        height: 9vh;
+        width: 9vh;
+    }
+    .displayCalc{
+        font-size: 50px;
     }
 }
